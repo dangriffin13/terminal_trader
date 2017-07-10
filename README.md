@@ -1,2 +1,2 @@
 # terminal_trader
-Basic stock buying program
+Mock stock buying program using an API from Markit
